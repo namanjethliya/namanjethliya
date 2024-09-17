@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @namanjethliya
-- 👀 I’m interested in React & building scalable responsive Web Design.
 - 📫 Email me at namanjethliya@gmail.com
 
 <!---
